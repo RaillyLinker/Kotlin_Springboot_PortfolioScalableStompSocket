@@ -16,7 +16,7 @@
   Springboot 를 이용한 WebSocket 서버 개발시 가독성, 유지보수성, 효율성을 보장하는 개발 패턴을 정리하였습니다.<br>
 <br>
 - 설명 블로그 글<br>
-  https://railly-linker.tistory.com/entry/%EB%B6%84%EC%82%B0-%EC%86%8C%EC%BC%93-%EC%84%9C%EB%B2%84-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84Springboot-SockJS-STOMP-Kafka-Redis-%EB%AF%B8%EC%99%84%EC%84%B1
+  https://railly-linker.tistory.com/91
 
 ## 프로젝트 설명 상세
 
